@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'hastenfernandes:accounts-loginWithDigits',
-  git: 'https://github.com/hastenfernandes/accounts-loginWithDigits.git',
+  name: 'hastenfernandes:accountsloginWithDigits',
+  git: 'https://github.com/hastenfernandes/accountsloginWithDigits.git',
   version: '1.0.0',
   summary: 'Login with loginWithDigits using cordova native sdk.'
 });

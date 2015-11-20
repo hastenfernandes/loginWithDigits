@@ -2,4 +2,4 @@
 Login with loginWithDigits on web
 
 # Adding package
-```meteor add hastenfernandes:accounts-loginWithDigits```
+```meteor add hastenfernandes:accountsloginWithDigits```
